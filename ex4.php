@@ -17,3 +17,5 @@ echo "Total em minutos: " . $cronometro->totalMinutos() . PHP_EOL;
 $cronometro->zerar();
 
 echo "Depois de zerar: " . $cronometro->formatarTempo() . PHP_EOL;
+
+//teste 
