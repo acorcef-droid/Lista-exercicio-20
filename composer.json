@@ -1,0 +1,13 @@
+{
+    "name": "aula/poo",
+    "description": "Projeto de Programação Orientada a Objetos",
+    "type": "project",
+    "require": {
+        "php": "^8.4"
+    },
+    "autoload": {
+        "psr-4": {
+            "App\\": "src/"
+        }
+    }
+}
