@@ -14,7 +14,7 @@ class BateriaDispositivo
         
     )
     {
-        $this->carga = 0;
+        $this->carga = 50;
     }
 
     public function limitador(int $valor) : int {
